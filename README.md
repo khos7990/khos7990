@@ -4,7 +4,7 @@
 
  ### About Me 🤓
 
-- 🔭 I’m currently working on a MERN Stack Web Application.
+- 🔭 I’m currently working on a MERN Stack E-Commerence Web Application.
 
 
 - 🌱 I’m currently learning React Native as well as TypeScript.
